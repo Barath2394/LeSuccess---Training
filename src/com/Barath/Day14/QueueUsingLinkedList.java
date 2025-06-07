@@ -1,4 +1,5 @@
 package com.Barath.Day14;
+
 class Node {
     int val;
     Node next;
