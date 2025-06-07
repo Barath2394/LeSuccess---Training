@@ -1,9 +1,5 @@
 package com.Barath.Day14;
-
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.Stack;
-
+import java.util.*;
 public class RotateKDigits {
     public static void main(String[] args) {
         Queue<Integer> q = new LinkedList<>();
